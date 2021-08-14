@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I’m currently working with tecnologies like Node.js, Serverless, express, Docker, AWS, PHP, among others.
 <!--
 **emanleand/emanleand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
